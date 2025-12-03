@@ -25,3 +25,7 @@ Projet éducatif et open‑source. Réutilisation libre pour des actions de sens
 Important : faites un briefing avant l’exercice et un debrief après pour expliquer les signes de phishing et les bonnes pratiques.
 
 
+<img width="861" height="838" alt="image" src="https://github.com/user-attachments/assets/636df196-8765-4448-b334-5cc8ccf3729c" />
+
+
+
